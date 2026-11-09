@@ -6,4 +6,4 @@ My top current project right now is my [Pixel-Adventure](https://github.com/Jaus
 
 Right now I'm working on the [Last Terminal](https://github.com/Jausin01/Last_Terminal), a Survival Horror with voice controls based on retro games like Resident evil, Silent Hill and Lifeline. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jausin01)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Jausin01)](https://github.com/stats-organization/github-stats-extended)
